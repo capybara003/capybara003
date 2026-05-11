@@ -1,5 +1,5 @@
 <h1 align="center">
-   🚀 Full Stack AI Engineer | Web3 | Trading Systems
+   🚀 Full Stack AI Engineer | Trading Systems
 </h1>
 
 <p align="center">
@@ -10,13 +10,12 @@
 
 ## 👋 About Me
 
-I am a full-stack AI engineer specializing in building intelligent, scalable applications that combine **AI, Web3, and modern web technologies**.
+I am a full-stack AI engineer specializing in building intelligent, scalable applications that combine **AI, and modern web technologies**.
 
 I focus on developing:
 
 * 🤖 AI-powered applications & autonomous agents
 * 📊 Algorithmic & automated trading systems
-* 🔗 Decentralized (Web3) platforms
 * ⚡ High-performance full-stack products
 
 ---
@@ -41,16 +40,6 @@ I focus on developing:
 * Databases: PostgreSQL, MongoDB, Firebase
 * DevOps: Docker, AWS, Vercel
 * Version Control: Git, GitHub, CI/CD
-
----
-
-### 🔗 Web3 & Blockchain
-
-* Smart Contracts: Solidity, Rust (Solana), Hardhat, Foundry
-* DeFi & Trading: CEX, DEX, AMM, Trading Bots
-* Tools: Ethers.js, Web3.js, Moralis, IPFS
-
----
 
 ## 🚀 Featured Projects
 
