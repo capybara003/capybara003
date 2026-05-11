@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  Building intelligent applications, AI agents, and decentralized systems
+  Building intelligent applications, AI agents
 </p>
 
 ---
@@ -51,10 +51,6 @@ I focus on developing:
 
 * 📊 **Crypto Analytics Dashboard**
   Real-time market data visualization with predictive insights
-
-* 🔗 **Web3 Trading Platform**
-  Decentralized application with smart contract integration and trading features
-
 ---
 
 ## ⚡ What I Focus On
@@ -62,7 +58,6 @@ I focus on developing:
 * AI-powered automation & intelligent systems
 * LLM applications & AI agents
 * Trading bots & financial systems
-* Web3 + AI integrations
 * Scalable full-stack architecture
 
 ---
@@ -73,7 +68,6 @@ I focus on developing:
 AI/ML:        OpenAI, LangChain, Python, Pandas, FAISS
 Frontend:     React, Next.js, TypeScript, TailwindCSS
 Backend:      Node.js, Express, NestJS, GraphQL
-Blockchain:   Solidity, Rust (Solana), Hardhat, Foundry
 DevOps:       Docker, AWS, Vercel, CI/CD
 Database:     PostgreSQL, MongoDB, Firebase
 ```
